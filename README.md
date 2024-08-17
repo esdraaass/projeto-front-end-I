@@ -1,4 +1,4 @@
-# projeto-front-end-I
+# Projeto Final - Front-end I - PS Full Stack
 Projeto prático desenvolvido para avaliação de aprendizado do módulo de front-end I, utilizando HTML e CSS para estruturação e estilização de página web. A página em questão é um exemplo de currículo online.
 
 <hr>
